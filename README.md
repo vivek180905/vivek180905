@@ -74,7 +74,7 @@ function whatDrivesMe() {
 ## 📈 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatJ15&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek180905&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 ---
@@ -82,5 +82,5 @@ function whatDrivesMe() {
 ## 🐍 Contributions Flow
 
 <p align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" />
+  <img src="https://github.com/vivek180905/vivek180905/blob/readme/resources/grid-snake.svg" />
 </p>

@@ -70,12 +70,12 @@ function whatDrivesMe() {
 ```
 
 ---
-
-## 📈 GitHub Snapshot
 <!--
+## 📈 GitHub Snapshot
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek180905&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</p> -->
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
@@ -84,12 +84,16 @@ function whatDrivesMe() {
 
 
 ---
+</p> -->
 
-## 🐍 Contributions Flow
+
+
 
 ## 🐍 Contributions Flow
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vivek180905/vivek180905/output/github-snake.svg" />
 </p>
+
+
 

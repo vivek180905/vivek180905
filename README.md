@@ -30,6 +30,7 @@ My mission? To create elegant, intuitive web apps that *delight users* and *scal
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=zotero&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+#TODO-> have to add some more
 -->
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white)
 

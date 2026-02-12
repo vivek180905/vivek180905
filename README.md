@@ -48,7 +48,7 @@ check for all projects and add the required here
 ![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF6B00?style=flat-square&logo=github&logoColor=white)
 <!--
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-00C7B7?style=flat-square&logo=render&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-00C7B7?style=flat-square&logo=render&logoColor=white) // 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 -->
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)

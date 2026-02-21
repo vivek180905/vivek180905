@@ -18,7 +18,7 @@ jobs:
           github_user_name: vivek180905
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg
+            
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
